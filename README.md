@@ -3,6 +3,6 @@ This web application generates a password for you upon the click of a button but
 
 The user interface is clean and polished as seen below.
 
-
+![A screenshot of the Password Gener8tor UI](./img/screenshot.png)
 
 Here is the link to the deployed web application: https://kbario.github.io/CustomisedPasswordGener8tor/
